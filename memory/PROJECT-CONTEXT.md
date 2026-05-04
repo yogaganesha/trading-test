@@ -2,7 +2,10 @@
 
 ## Overview
 - What: Autonomous trading bot challenge
-- Starting capital: ~$10,000
+- **Synthetic working capital: $10,000 (hard cap, regardless of paper equity)**
+- Paper account default is ~$100K — surplus is ignored. All sizing rules
+  apply against the $10K baseline.
+- Real trading will start at ~$5K, so $10K is the practice ceiling.
 - Platform: Alpaca (paper trading for first run)
 - Duration: [your challenge window]
 - Strategy: Swing trading stocks, no options

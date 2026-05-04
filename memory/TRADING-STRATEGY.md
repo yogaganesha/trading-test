@@ -4,8 +4,12 @@
 Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 
 ## Capital & Constraints
-- Starting capital: ~$10,000
-- Platform: Alpaca
+- **Synthetic working capital: $10,000 (hard cap)**
+- Paper account reports ~$100K equity — IGNORE the surplus. Size every
+  position against the $10K baseline, not Alpaca's reported equity.
+- Real trading will launch at ~$5K, so $10K is the practice ceiling.
+- Max deployed: **$8,500** (85%). Max per position: **$2,000** (20%).
+- Platform: Alpaca (paper)
 - Instruments: Stocks ONLY
 - PDT limit: 3 day trades per 5 rolling days (account < $25k)
 
