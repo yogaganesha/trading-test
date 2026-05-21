@@ -65,3 +65,43 @@ TRADE or HOLD (default HOLD if no edge)
 HOLD — no documented catalyst with sufficient conviction; pre-market not run
 properly. Defer additions to tomorrow's full pre-market workflow. Existing
 GE/XOM positions retain GTC trailing stops.
+
+## 2026-05-21 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,206.67 (ignored — synthetic cap)
+- Deployed vs $10K: $3,836.16 (38.4%) — UNDER target 75-85%
+- Cash room within cap: $6,163.84
+- Daytrade count: 0/3
+- Trades this week: 0 (room for 3)
+
+### Positions
+- GE: 6 sh @ $303.84 avg, now $297.35 (-2.1%) — trailing stop GTC @ $279
+- XOM: 13 sh @ $152.98 avg, now $157.85 (+3.2%) — trailing stop GTC @ $147.31
+
+### Market Context
+- S&P 500 futures: ~7,426 (-0.34%) — slightly red
+- VIX / WTI: not retrieved cleanly via Perplexity
+- Earnings today (event risk — avoid): WMT, DE, WDAY, ZM, DECK, ROST, BJ, CPRT
+- NVDA reported AMC 5/20: record Q1 FY27 revenue $81.6B, +73% YoY — beat-and-raise
+- Sector momentum: industrials, energy, staples, semis (AVGO highlighted)
+- Macro: possible IEEPA "reciprocal" tariff removal this week (bullish)
+
+### Trade Ideas (live quotes ~9:39 ET)
+1. NVDA — Q1 FY27 record earnings beat-and-raise reported AMC 5/20.
+   Ask $226.00, spread 1.3%. 8 sh = $1,808 = 18.1% of cap.
+   Stop: 10% trail GTC. Catalyst: confirmed earnings.
+2. AVGO — semis momentum leader. Ask $434.32 but spread 3.5% (wide) — SKIP.
+3. NEE — defensive utility rotation thesis, ask $88.95, spread 0.07%.
+   No specific catalyst — SKIP per "Specific catalyst?" rule.
+4. LMT / CAT / HON / COST — 5-10% bid-ask spreads at open — SKIP slippage.
+
+### Risk Factors
+- Wide bid/ask spreads at open on most names (slippage on market orders)
+- S&P futures red — broad-market headwind
+- Rising Treasury yields cited as profit-taking driver
+- VIX/oil unconfirmed (Perplexity didn't return clean values)
+
+### Decision
+TRADE — Buy NVDA (1 trade). One clean catalyst (post-earnings beat-and-raise)
+with acceptable spread. Skip everything else (no catalyst or bad spreads).
