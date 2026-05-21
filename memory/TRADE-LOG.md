@@ -26,3 +26,20 @@ No positions yet. Bot launches tomorrow.
 ### Cap utilization
 - Deployed vs $10K: ~$5,625 (56.3%) — still below 75-85% target
 - Trades this week: 1/3 | Positions: 3/6 | Daytrades: 0/3
+
+### May 21 — EOD Snapshot (Day 1, Thursday)
+**Portfolio:** $9,989.02 | **Cash:** $4,399.31 (44.0%) | **Day P&L:** -$10.98 (-0.11%) | **Phase P&L:** -$10.98 (-0.11%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| GE     | 6      | $303.84  | $302.60  | +0.81%  | -$7.44         | $279.00  |
+| NVDA   | 8      | $223.62  | $219.47  | -1.79%  | -$33.20        | $202.28  |
+| XOM    | 13     | $152.98  | $155.26  | -0.65%  | +$29.66        | $147.31  |
+
+**Notes:** Day 1 of tracked phase. Opened NVDA at market open (8sh @ $223.62)
+post-earnings; sagged -1.79% on the day. GE drifted slightly above entry
+(+0.81%) but still red on cost. XOM ticked down -0.65% intraday yet remains
+the only green name. Portfolio flat overall (-0.11%). Trades: 1/3 this week,
+3/6 positions, 56% deployed — still under the 75-85% target. All three
+trailing stops live and GTC. No action needed pre-open tomorrow; watch NVDA
+for follow-through buying and XOM stop creep (only ~5% from price).
