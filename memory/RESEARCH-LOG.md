@@ -105,3 +105,44 @@ GE/XOM positions retain GTC trailing stops.
 ### Decision
 TRADE — Buy NVDA (1 trade). One clean catalyst (post-earnings beat-and-raise)
 with acceptable spread. Skip everything else (no catalyst or bad spreads).
+
+## 2026-05-26 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,154.11 (ignored — synthetic cap)
+- Deployed vs $10K: $5,572.56 (55.7%) — UNDER target 75-85%
+- Cash room within cap: $4,427.44
+- Daytrade count: 0/3
+- Trades this week: 0/3 (Mon 5/25 was Memorial Day; first trading day of week)
+
+### Positions
+- GE: 6 sh @ $303.84, now $309.23 (+1.77%) — trail GTC @ $279 (hwm $310)
+- NVDA: 8 sh @ $223.62, now $216.81 (-3.05%) — trail GTC @ $202.28 (hwm $224.75)
+- XOM: 13 sh @ $152.98, now $152.60 (-0.25%) — trail GTC @ $147.31 (hwm $163.68)
+
+### Market Context
+- S&P 500 futures: ~+0.76% overnight (CME E-mini ~7,548) — risk-on
+- VIX / WTI: not retrieved cleanly
+- Sector momentum: tech / AI infrastructure / semis leading
+- Macro: US-Iran peace hope + Treasury yields easing → equity tailwind
+- No verified same-day earnings/FDA/M&A catalysts found via Perplexity
+
+### Trade Ideas (live quotes ~9:33 ET)
+1. MSFT — mega-cap AI exposure. Bid 415.21 / Ask 429.80 = 3.4% spread — WIDE, SKIP.
+2. MU — AI memory leader, momentum. Bid 842.28 / Ask 843.19 = 0.11% spread (tight)
+   but NO specific same-day catalyst — SKIP per "Specific catalyst?" rule.
+3. AMD — semis momentum. Bid 460.70 / Ask 484.55 = 4.9% spread — WIDE, SKIP.
+4. SMH — semi ETF, tight spread, but ETF + no specific catalyst — SKIP.
+
+### Risk Factors
+- No verified dated catalyst found for May 26 2026 — same problem as 5/20
+- Wide bid-ask spreads on MSFT/AMD at open — slippage risk
+- NVDA already in book (-3.05%) — already exposed to AI/semis sector
+- Existing positions all within rule bounds (no stop adjustments needed):
+  GE +1.77% (no tighten), NVDA -3.05% (above -7% cut), XOM -0.25% (no action)
+
+### Decision
+HOLD — No verified specific catalyst for any candidate. Tech/AI sector tailwind
+acknowledged but already expressed via NVDA. Per strategy "Specific catalyst?"
+gate + "Patience > activity," skip all new entries. Existing GTC trailing stops
+remain in force. Re-assess at midday scan.
