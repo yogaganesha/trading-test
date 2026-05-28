@@ -32,3 +32,7 @@ Open positions:
   NVDA -1.79% (stop $202.28)
   XOM -0.65% (stop $147.31)
 Tomorrow: hold; watch NVDA follow-through, XOM stop ~5% from price
+
+---
+## 2026-05-28 20:05 UTC
+EOD 5/28 (Day 5): Portfolio $9,940.75 | Day P&L +$33.66 (+0.34%) | Phase -$59.25 (-0.59%). XOM stopped out 5/27 @ $146.44 (-$85). Open: GE 6sh +$102 (stop $290), NVDA 8sh -$76 (stop $202). Cash 63% — under-deployed; refill candidate for pre-market scan.
