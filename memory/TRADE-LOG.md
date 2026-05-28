@@ -43,3 +43,25 @@ the only green name. Portfolio flat overall (-0.11%). Trades: 1/3 this week,
 3/6 positions, 56% deployed — still under the 75-85% target. All three
 trailing stops live and GTC. No action needed pre-open tomorrow; watch NVDA
 for follow-through buying and XOM stop creep (only ~5% from price).
+
+## 2026-05-27 — Stop Triggered
+- **XOM trailing stop hit** 13 sh sold @ $146.44 (entry $152.98) = -$84.97
+  - Trail: 10% GTC, hwm $163.68 → stop $147.31, filled at $146.44
+  - Exit reason: trail breached after pullback from $163.68 high.
+
+### May 28 — EOD Snapshot (Day 5, Thursday)
+**Portfolio:** $9,940.75 | **Cash:** $6,303.03 (63.0%) | **Day P&L:** +$33.66 (+0.34%) | **Phase P&L:** -$59.25 (-0.59%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| GE     | 6      | $303.84  | $320.82  | +1.14%  | +$101.88       | $290.09  |
+| NVDA   | 8      | $223.62  | $214.10  | +0.71%  | -$76.16        | $202.28  |
+
+**Notes:** Day 5 of phase. XOM stopped out yesterday (5/27) at $146.44 for
+-$84.97 realized — first phase exit. GE quietly running: +5.6% on cost, hwm
+$322.32, trail at $290.09 (~10% below price). NVDA still red (-4.3%) but
+ticked +0.71% today; trail at $202.28 (5.5% from price), hwm $224.75. Cap
+utilization low: 36% deployed vs 75-85% target after XOM exit. Trades this
+week: 0 new buys (1 stop fill). Positions 2/6. No replacement opened —
+pre-market scan tomorrow should size up the cash pile and consider a new
+name to refill the sector slot. No action required AH; both stops live GTC.
