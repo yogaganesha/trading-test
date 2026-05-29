@@ -146,3 +146,51 @@ HOLD — No verified specific catalyst for any candidate. Tech/AI sector tailwin
 acknowledged but already expressed via NVDA. Per strategy "Specific catalyst?"
 gate + "Patience > activity," skip all new entries. Existing GTC trailing stops
 remain in force. Re-assess at midday scan.
+
+## 2026-05-29 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,106.91 (ignored — synthetic cap)
+- Deployed vs $10K: $3,612.00 (36.1%) — UNDER target 75-85%
+- Cash room within cap: $6,388.00
+- Daytrade count: 0/3
+- Trades this week: 0/3 new buys (XOM stop fill on 5/27 doesn't count)
+
+### Positions
+- GE: 6 sh @ $303.84, now $319.38 (+5.11%) — trail GTC @ $290.09 (hwm $322.32)
+- NVDA: 8 sh @ $223.62, now $213.16 (-4.68%) — trail GTC @ $202.28 (hwm $224.75)
+
+### Market Context
+- S&P 500 futures: ~7,545 (+0.08% latest CME) — flat-to-mildly-positive
+- VIX / WTI / 10Y: not retrieved cleanly
+- Week sector leaders (5/26-29): Info Tech, Industrials, Energy
+- Week laggards: Financials, Healthcare
+- Macro: equities tested record highs late May; Iran peace narrative pushed
+  oil lower; Memorial Day shortened week (Mon closed)
+- Today is Friday — also weekly-review day
+
+### Trade Ideas (live quotes ~9:39 ET)
+1. DELL — beat-and-raise Q1 FY27 reported AMC 5/28. Rev $43.8B vs $35.7B est,
+   EPS $4.86 vs $2.94, raised FY27 to $165-169B, AI backlog $51.3B record.
+   Bid $405 / Ask $430 = **5.8% spread** — WIDE, SKIP slippage.
+2. TMUS — listed on 5/29 earnings calendar but Q1 actually reported 4/28.
+   No today-specific catalyst. Bid $186.27 / Ask $194.56 = 4.3% spread. SKIP.
+3. COST — Q3 reported Thursday 5/28 AMC. Bid $935.90 / Ask $1019.69 = **8.5%
+   spread** — WIDE, SKIP.
+4. MRVL — AI memory/networking theme. Bid $200 / Ask $207 = 3.4% spread, but
+   no specific 5/29 catalyst — SKIP per "Specific catalyst?" rule.
+
+### Risk Factors
+- Friday + short holiday week = thin liquidity / wide opening spreads (recurring
+  problem across 5/20, 5/26, today)
+- All four candidates' spreads exceed 3%; cleanest catalyst (DELL) has worst
+  spread — buying ask costs ~6% before any move (breaks -7% loss rule on entry)
+- Under-deployed at 36% vs 75-85% target — cash drag risk, but not worth forcing
+- Existing positions in rule bounds: GE +5.1% (no tighten — need +15%),
+  NVDA -4.7% (above -7% cut), stops live
+
+### Decision
+HOLD — Strongest catalyst (DELL beat-and-raise) blocked by 6% opening spread;
+all other candidates either no catalyst or worse spreads. Existing GTC trailing
+stops remain in force. Re-assess at midday scan when spreads typically tighten;
+weekly review at PM close.
