@@ -65,3 +65,22 @@ utilization low: 36% deployed vs 75-85% target after XOM exit. Trades this
 week: 0 new buys (1 stop fill). Positions 2/6. No replacement opened —
 pre-market scan tomorrow should size up the cash pile and consider a new
 name to refill the sector slot. No action required AH; both stops live GTC.
+
+### May 29 — EOD Snapshot (Day 6, Friday)
+**Portfolio:** $9,943.03 | **Cash:** $6,303.03 (63.4%) | **Day P&L:** +$2.28 (+0.02%) | **Phase P&L:** -$56.97 (-0.57%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| GE     | 6      | $303.84  | $323.76  | +0.92%  | +$119.52       | $293.33  |
+| NVDA   | 8      | $223.62  | $212.18  | -0.97%  | -$91.52        | $202.28  |
+
+**Notes:** Day 6, Friday — week wraps flat. GE hit a new hwm $325.92 (+7.2%
+on cost), trail bumped to $293.33; still ~9.4% below price (no tightening
+triggered — needs +15% for 7% trail). NVDA drifted -0.97% to $212.18 (-5.1%
+on cost), hwm unchanged at $224.75, trail $202.28 (~4.7% from price —
+getting tight). Portfolio +$2.28 on the day, essentially noise. Phase
+cumulative -$56.97 (-0.57%) vs $10K basis. Cap utilization still
+underweight: 36.4% deployed vs 75-85% target. Trades this week: 0 new (1
+stop fill); 0/3 weekly slots used. Positions 2/6. No new entries today —
+sector-momentum scan needed Monday pre-open to redeploy idle cash. Both
+trail stops live GTC. Have a good weekend.
