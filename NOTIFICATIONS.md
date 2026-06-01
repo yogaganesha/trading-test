@@ -40,3 +40,7 @@ EOD 5/28 (Day 5): Portfolio $9,940.75 | Day P&L +$33.66 (+0.34%) | Phase -$59.25
 ---
 ## 2026-05-29 20:05 UTC
 EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%) vs $10K cap. Positions 2/6: GE +$119.52 (stop $293.33), NVDA -$91.52 (stop $202.28). Cash 63.4% — underweight vs 75-85%. Trades this wk: 0 new (1 stop fill). Need redeploy scan Mon pre-open.
+
+---
+## 2026-06-01 11:09 UTC
+6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
