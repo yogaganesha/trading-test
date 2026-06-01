@@ -194,3 +194,49 @@ HOLD — Strongest catalyst (DELL beat-and-raise) blocked by 6% opening spread;
 all other candidates either no catalyst or worse spreads. Existing GTC trailing
 stops remain in force. Re-assess at midday scan when spreads typically tighten;
 weekly review at PM close.
+
+## 2026-06-01 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,159.38 (ignored — synthetic cap)
+- Deployed vs $10K: $3,612.00 (36.1%) — UNDER target 75-85%
+- Cash room within cap: $6,388.00
+- Daytrade count: 0/3
+- Trades this week: 0/3 new buys (fresh week, Monday)
+
+### Positions
+- GE: 6 sh @ $303.84, now $318.82 (+4.93%) — trail GTC @ $293.33 (hwm $325.92)
+- NVDA: 8 sh @ $223.62, now $220.01 (-1.61%) — trail GTC @ $202.28 (hwm $224.75)
+
+### Market Context
+- Sector momentum (per Perplexity): AI infrastructure, tech/software (IGV
+  highlighted), healthcare improving
+- Earnings flagged for today: JAZZ, GILD, DUK, AEP, CNOB, MOV
+- FDA watch: TCMD
+- Theme: AI memory momentum (MU)
+- S&P seasonality: June average +0.6%, win rate 64% (Equity Clock)
+
+### Trade Ideas (live quotes ~9:38 ET)
+1. JAZZ — earnings catalyst today. Bid $220.97 / Ask $234.90 = **6.3% spread**
+   — WIDE, SKIP slippage.
+2. MU — AI memory momentum, tight spread (Bid $1022.59 / Ask $1036.00 = 1.3%)
+   but NO specific dated catalyst per source — SKIP per "Specific catalyst?"
+   rule. Also ~$1036 single share would consume >10% of cap as 2sh = $2,072
+   (slightly over 20% cap).
+3. GILD — earnings today. Bid $131.92 / Ask $139.20 = **5.5% spread** — WIDE, SKIP.
+4. DUK — earnings today. Bid $115.34 / Ask $129.15 = **12% spread** — WIDE, SKIP.
+5. AEP — earnings today. Bid $118.75 / Ask $132.83 = **11.9% spread** — WIDE, SKIP.
+6. TCMD — FDA win flag. Bid $20.64 / Ask $28.05 = **36% spread** — VERY WIDE, SKIP.
+
+### Risk Factors
+- Same Monday-open pattern: every catalyst-bearing name shows 5-36% spread,
+  buying at ask would breach the -7% cut rule on entry alone
+- MU only tight spread but fails catalyst gate (theme-only)
+- Already exposed to AI/semis via NVDA
+- Under-deployed at 36% vs 75-85% target — cash drag, not worth forcing
+
+### Decision
+HOLD — All earnings names blocked by opening spreads; only tight-spread name
+(MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
+force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
+-1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
