@@ -3,6 +3,86 @@
 Daily pre-market research entries will be appended here.
 Format each entry:
 
+---
+
+## 2026-06-01 — Pre-Market Research
+
+### Account Snapshot (vs $10K cap)
+- Alpaca equity: $100,141.62 (ignore surplus)
+- Deployed: $3,656.36 (36.6% of $10K) — **WELL BELOW 75-85% target**
+- Cash available within cap: ~$6,344
+- Positions: 2/6 | Trades this week: 0/3 | Daytrades: 0/3
+
+| Ticker | Shares | Entry   | Current | Unr P&L  | Stop GTC | HWM     | vs Cost  |
+|--------|--------|---------|---------|----------|----------|---------|---------|
+| GE     | 6      | $303.84 | $321.50 | +$105.96 | $293.33  | $325.92 | +5.82%  |
+| NVDA   | 8      | $223.62 | $215.92 | -$61.60  | $202.28  | $224.75 | -3.44%  |
+
+**Stop health:**
+- GE: trail 8.7% below current — comfortable
+- NVDA: trail 6.2% below current — narrowing; manual cut at $208.17 (-7% on cost); NOT triggered
+
+### Market Context
+- **S&P 500 futures:** ~7,600, +0.18-0.20% — mildly positive; market near all-time highs
+- **Brent oil:** ~$93.01/bbl (+3.06%); **WTI:** ~$89.71/bbl (some sources show -2.08% intraday conflict)
+- **VIX:** 15.74 close 5/28 → ~15.92 early 6/1 — low volatility, complacent
+- **Sector momentum YTD:** Tech +28.52%, Energy +20.96%, Transportation +17.17%, Industrials ~+10%
+- **AI theme:** BofA June top picks = NVDA + AAPL; Schwab: AI-themed rally pushed S&P to highs last week
+
+**Macro calendar (week of 6/1):**
+- Fri 6/5: May jobs (NFP est +75K — Barclays; below trend → dovish signal)
+- Wed 6/10: May CPI
+- Thu 6/11: May PPI (April PPI was +6% YoY — elevated)
+- Tue-Wed 6/16-17: FOMC meeting
+
+**Earnings today (6/1):**
+- SAIC: BMO (defense IT services — no direct book exposure)
+- HPE: AMC (AI servers; potential signal for hyperscaler demand)
+- CRDO: AMC (AI networking chips)
+
+**Big names this week:** AVGO (Broadcom) + CRWD (CrowdStrike) — expected Thu 6/5 AMC
+
+**Held ticker news:**
+- **GE:** Rose ~6% last week; avg analyst target $348.22 (high $405); Q1 orders +87%, revenue +25%, EPS +25%. Thesis intact. No adverse news.
+- **NVDA:** Consensus 53 analysts, avg target $305 (+41% upside from $215). BofA June conviction pick. Key risk: China export restrictions, margin compression. Today +2.26% premarket bounce.
+
+### Trade Ideas
+
+**1. AVGO (Broadcom) — Pre-earnings momentum entry**
+- Catalyst: Q2 FY2026 earnings expected Thu 6/5 AMC; AI custom ASIC + networking; strong AI capex tailwind; BofA-style top pick
+- Entry: market open today if spread <1.5%; target ~$240-$245 area
+- Size: $2,000 (20% cap)
+- Stop: 10% trailing GTC immediately after fill
+- Target: +15-20% toward prior highs; min 2:1 R:R
+- Risk: pre-earnings event risk (beats expected; miss = gap down through stop)
+
+**2. XOM — Energy re-entry**
+- Catalyst: Brent $93/bbl; energy sector YTD +20.96%; prior position stopped out at $146.44 — may have recovered
+- Entry: market open if spread <1% and price action confirms strength; target ~$147-$150 area
+- Size: $2,000 (20% cap)
+- Stop: 10% trailing GTC
+- Target: retest of prior $163.68 hwm; +10-12% from entry
+- Risk: WTI intraday -2.08% (conflicting oil data); energy sector 1 failed trade already (XOM stop)
+
+**3. NVDA add — NOT recommended**
+- Already in book at -3.44%; under-water; trail only 6.2% from price
+- Concentrate new cash elsewhere; hold existing position
+
+### Risk Factors
+- Persistent opening-spread problem: MSFT/AMD/DELL/COST all had 3-9% spreads at open on prior sessions
+- Jobs Friday (+75K est) = dovish but could signal weakening economy → mixed
+- PPI +6% YoY = inflation still hot → FOMC not cutting near-term → rate headwind
+- NVDA trail tightening — watch for stop fill if no new hwm
+- Energy: 1 prior failed trade in sector (XOM) — one more would trigger sector exit rule
+- VIX complacency at 15.9 — sharp vol spike could cascade stops
+
+### Decision
+**CONDITIONAL TRADE** — Deploy idle cash to close the deployment gap (36% → 75-85%):
+1. **AVGO at open** if bid-ask spread <1.5%; size $2,000; 10% trail GTC. Pre-earnings momentum play with strong AI catalyst.
+2. **XOM at open** if spread <1% and price confirms energy bid; size $2,000; 10% trail GTC. Sector re-entry — note this would be 2nd attempt in energy sector.
+3. If spreads are wide at open (recurring pattern), defer to midday scan when spreads tighten.
+4. GE and NVDA: HOLD; all stops live GTC; no adjustments needed today.
+
 ## YYYY-MM-DD — Pre-market Research
 
 ### Account
