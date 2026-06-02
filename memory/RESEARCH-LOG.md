@@ -320,3 +320,59 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-02 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,236.62 (ignored — synthetic cap)
+- Deployed vs $10K: $3,752.16 (37.5%) — UNDER target 75-85%
+- Cash room within cap: $6,247.84
+- Daytrade count: 0/3
+- Trades this week: 0/3 new buys (Tuesday)
+
+### Positions
+- GE: 6 sh @ $303.84, now $324.50 (+6.80%) — trail GTC @ $293.33 (hwm $325.92)
+- NVDA: 8 sh @ $223.62, now $225.65 (+0.91%) — trail GTC @ $202.28 (hwm $224.75)
+
+### Market Context
+- Sector momentum (per Perplexity): tech led S&P yesterday; AI / mega-cap
+  growth themes intact; cybersecurity flagged (PANW/CRWD this week)
+- Tuesday earnings: PANW (AMC), CRWD (AMC), ULTA (AMC), DG (BMO claimed),
+  SAIC, CPB, UNFI, GTLB, ODD, SIG, VSCO, DCI
+- Wednesday earnings: AVGO, CRWD, FIVE, M, MDT, OLLI, PVH, THO, VEEV
+- Macro backdrop: falling Treasury yields, lower oil, rate-cut hopes intact
+- No verified BMO beat-and-raise found in Perplexity pass
+
+### Trade Ideas (live quotes ~9:42 ET)
+1. DG — earnings flagged BMO. Bid $101.08 / Ask $112.87 = **10.4% spread** —
+   WIDE, SKIP. Beat/miss not yet confirmed.
+2. PANW — AMC tonight. Bid $279.30 / Ask $308.49 = **9.5% spread** + event
+   risk. SKIP on both gates.
+3. CRWD — AMC tonight. Bid $756.00 / Ask $780.00 = **3.2% spread** + event
+   risk tonight. SKIP catalyst gate (pre-print).
+4. AVGO — AMC Wednesday. Bid $478.70 / Ask $485.00 = **1.3% spread** TIGHT
+   but event risk tomorrow. SKIP.
+5. ANET — AI infra thematic. Bid $165.12 / Ask $173.37 = **5.0% spread** —
+   WIDE, SKIP. Also no dated catalyst.
+6. MSFT — mega-cap tech. Bid $443 / Ask $458 = **3.4% spread**, no specific
+   catalyst — SKIP.
+7. AMD — Bid $505 / Ask $507.50 = **0.5% spread** TIGHT but no specific
+   catalyst + overlaps NVDA AI/semis exposure — SKIP.
+8. META — Bid $596 / Ask $601.64 = **0.94% spread** TIGHT but no specific
+   catalyst — SKIP per gate.
+
+### Risk Factors
+- Third consecutive open-session with catalyst names showing 3-10% spreads —
+  buying at ask breaches -7% cut on entry
+- Only tight-spread names (AMD/META) fail catalyst gate (thematic only)
+- AI/semis slot already filled by NVDA
+- Under-deployed at 37.5% — cash drag, but forcing trades violates
+  "Patience > activity" hard rule
+
+### Decision
+HOLD — All catalyst names blocked by opening spreads or pre-earnings event
+risk; only tight-spread liquid names (AMD/META) fail the specific-catalyst
+gate. Existing GE/NVDA GTC trailing stops remain in force. No stop
+adjustments needed (GE +6.8% — needs +15% to tighten; NVDA +0.9% — above
+-7% cut). Re-assess at midday scan when spreads narrow and BMO reactions
+settle (DG, SAIC, CPB, UNFI).
