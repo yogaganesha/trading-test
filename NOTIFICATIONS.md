@@ -44,3 +44,14 @@ EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%)
 ---
 ## 2026-06-01 11:09 UTC
 6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
+
+---
+## 2026-06-02 20:04 UTC
+EOD Jun 02
+Portfolio: $9,991.91 (+0.49% day, -0.08% phase)
+Cash: $6,303.03 (63.1%)
+Trades today: none
+Open positions:
+  GE +4.57% (stop $293.76)
+  NVDA -0.36% (stop $209.05)
+Tomorrow: pre-market scan to redeploy idle cash; target third name to refill sector slot.
