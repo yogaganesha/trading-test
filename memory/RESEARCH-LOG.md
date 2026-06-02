@@ -275,6 +275,51 @@ all other candidates either no catalyst or worse spreads. Existing GTC trailing
 stops remain in force. Re-assess at midday scan when spreads typically tighten;
 weekly review at PM close.
 
+## 2026-06-02 — Pre-Market Research
+
+### Account Snapshot (vs $10K synthetic cap)
+- Alpaca equity: $100,239.80 (ignored — synthetic cap)
+- Deployed vs $10K: $3,754.54 (37.5%) — UNDER target 75-85%
+- Cash room within cap: ~$6,245
+- Daytrade count: 0/3 | Trades this week: 0/3 new buys (Tuesday, fresh week)
+
+| Ticker | Shares | Entry    | Last    | Unreal P&L       | Trail Stop | HWM      |
+|--------|--------|----------|---------|------------------|------------|----------|
+| GE     | 6      | $303.84  | $323.09 | +$115.50 (+6.3%) | $293.76    | $326.40  |
+| NVDA   | 8      | $223.62  | $227.00 | +$27.04 (+1.5%)  | $202.38    | $224.87  |
+
+Stop notes: NVDA current $227 > HWM $224.87 — Alpaca will auto-advance stop to ~$204.30 today. GE stop auto-tracks (10% trail). No manual adjustments needed.
+
+### Market Context
+- **WTI crude:** ~$92-94/bbl, **+7.1% on the day** — sharp OPEC/geopolitical spike
+- **Brent:** ~$94-95/bbl, up ~+7.5% — energy sector major intraday catalyst
+- **S&P 500 futures (ESM26):** ~7,595-7,604, roughly flat to -0.2% premarket
+- **VIX:** ~16.05 — low / complacent; risk-on backdrop
+- **JOLTS job openings:** 10:00 AM ET today — main macro risk event; next CPI June 10
+- **Earnings BMO today:** DCI (Donaldson), SIG (Signet Jewelers) — no holdings affected
+- **Sector momentum YTD:** Energy #1 (+26.47%); Industrials #3 (+9.61%); Tech/Comms/Financials lagging. Momentum factor ETF +20% YTD vs S&P +8%.
+
+### Held Ticker News
+- **GE:** No fresh news today. Q1 2026 beat (EPS $1.86 vs $1.60 est, rev $11.6B vs $10.71B, April 21). Running quietly +6.3% on cost. No action needed.
+- **NVDA:** Post-earnings momentum. Rev $81.6B (+73% YoY), data-center $75.2B, $80B buyback, dividend raised 25x to $0.25/sh. Computex 2026 keynote: Vera CPU $200B TAM, Blackwell Ultra demand intact. Currently +1.5% on cost. Adding not possible — at $227/sh, adding 1 share brings total to $2,043 (above $2K cap). Hold.
+
+### Trade Ideas
+1. **OXY (Occidental Petroleum)** — Primary candidate. Oil +7% today is a specific, large-magnitude catalyst. Energy is the #1 YTD sector. XOM was 1 failed energy trade (1/2 allowed); OXY has Buffett backing and high WTI leverage. Budget: up to $2,000 (~11-12 shares at ~$165-170 est). Stop -10% below entry. Target +20% = 2:1 R:R. **Risk:** buying into a spike; spread likely wide at open. **Rule:** only enter if spread ≤3% at open.
+2. **CVX (Chevron)** — Fallback energy name. Integrated major, lower WTI leverage than OXY but tighter spreads historically. Same catalyst (oil +7%). Budget: up to $2,000 (~11 shares at ~$180 est). Stop -10%, target +15-20%. Less upside than OXY but cleaner execution.
+3. **DCI (Donaldson) BMO** — Industrials (Leading sector). Reports before open today. If beats and spreads tighten by 10-15 min post-open, could be a catalyst-driven entry. Budget: up to $2,000. Risk: opening spread pattern has been problematic (5-36% spreads seen this month).
+
+### Risk Factors
+- Oil +7% spike may be intraday noise — buying energy into a 7% daily move risks chasing top
+- JOLTS at 10:00 AM ET could whipsaw rates/equities — wait for 10:15 clear before entry
+- Opening spread pattern: every catalyst this month showed 5-36% spreads at bell; energy names may follow
+- Still only 2/6 positions and 37.5% deployed — cash drag, but forcing a bad entry is worse
+- XOM was 1/2 allowed energy failures — OXY/CVX entry keeps the sector alive
+
+### Decision
+**CONDITIONAL BUY — OXY or CVX at open IF spread ≤3%.** Oil +7% is the strongest specific catalyst seen since NVDA earnings. Energy is #1 YTD sector. Wait for spread check at 9:35-9:45 ET; also let JOLTS (10:00 AM) pass if entries look close at that threshold. If spreads remain wide (>3%), revert to HOLD and re-assess at midday scan.
+
+---
+
 ## 2026-06-01 — Market-Open Inline Research
 
 ### Account (vs $10K cap)
