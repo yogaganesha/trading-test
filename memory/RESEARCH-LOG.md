@@ -275,6 +275,53 @@ all other candidates either no catalyst or worse spreads. Existing GTC trailing
 stops remain in force. Re-assess at midday scan when spreads typically tighten;
 weekly review at PM close.
 
+## 2026-06-03 — Pre-Market Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,160.64 (ignore surplus — synthetic cap)
+- Long market value: $3,675.38 → deployed 36.75% vs $10K — UNDER 75-85% target
+- Cash room within cap: ~$6,325
+- Daytrade count: 0/3 | Trades this week: 0/3 (fresh week)
+
+### Positions
+| Ticker | Shares | Entry    | Current  | Unreal P&L     | Stop (GTC)            | HWM      |
+|--------|--------|----------|----------|----------------|-----------------------|----------|
+| GE     | 6      | $303.84  | $316.04  | +$73.22 (+4.0%)| $293.76 (10% trail)   | $326.40  |
+| NVDA   | 8      | $223.62  | $222.39  | -$9.84 (-0.6%) | $209.05 (10% trail)   | $232.28  |
+
+Stop check: GE +4.0% — no tighten (need +15%); NVDA -0.6% — above -7% cut. Both stops current.
+
+### Market Context
+- **S&P 500 futures:** ~7,623, flat/slightly red (-0.05%) — low conviction open
+- **VIX:** 16.05 — calm, risk-on backdrop
+- **Oil:** WTI ~$92.38/bbl, Brent ~$95.20/bbl — oil spiking +4-5% today; +50% YoY
+- **Sector momentum YTD leaders:** Consumer Staples, Industrials, Materials, Energy
+- **Lagging YTD:** Technology, Communications, Consumer Discretionary, Financials
+- **Pre-market earnings (BMO):** MOMO, ODD, SIG, VSCO, DG — none with obvious trade setup
+- **Economic calendar:** ADP Employment 8:15 AM ET; JOLTS 10:00 AM ET — jobs data day
+- **Themes:** AI capex/data-center buildout; energy price spike; rotation back toward tech/software
+
+### Held Ticker News
+- **GE:** U.S. Air Force contract for GE426 engine (Autonomous Collaborative Platform, May 19); Palantir AI partnership for military aviation sustainment. Industrial momentum leader — supportive.
+- **NVDA:** Launched RTX Spark super chips for Windows laptops (June 2, stock +6% on day). 37-analyst Buy consensus, price target $298.32. Tech sector lagging YTD but catalyst fresh.
+
+### Trade Ideas
+1. **CVX (Chevron)** — Energy catalyst: WTI +4-5% today, energy leading sector YTD. No XOM re-entry (stopped out — same sector, different name). Size: ~12 sh ~$1,700 (17% cap). Entry/stop: buy open, 10% trail GTC. Target: +15-20% ($195-$210 range). R:R: 1.5-2:1. **GATE: need spread <3% at open.**
+2. **HON (Honeywell)** — Industrials momentum; diversifies within leading sector alongside GE. Recent restructuring catalyst. Size: ~7 sh ~$1,500 (15% cap). 10% trail GTC. Target +15-20%. **GATE: spread <3% at open.**
+3. **NVDA add** — RTX Spark catalyst (June 2, +6% day). Analyst target $298 (+34% from entry). Current -0.6% on cost — not at -7% cut. Could add 4-5 sh ~$900 to bring to 12 sh ($2,667 > 20% cap — TOO LARGE). Pass on add, hold existing.
+
+### Risk Factors
+- ADP + JOLTS data at open could spike vol — execution risk on opening prints
+- Oil spike may already be priced in by open (4-5% move overnight)
+- Tech sector lagging YTD — NVDA headwind if rotation continues out of tech
+- Recurring Monday/Wednesday opening-spread problem could block CVX/HON again
+- Deploying 2 new names brings positions to 4/6 and deployed to ~70-73% — still slightly under target but much better
+
+### Decision
+**WATCH TO BUY** — Oil spike gives CVX a real dated catalyst. If CVX spread is <3% at 9:30 open, enter 12 sh. HON as secondary if spread permits. Existing GE/NVDA stops live; no stop adjustments needed. Default HOLD if spreads are wide. Re-assess at midday if passed over.
+
+---
+
 ## 2026-06-01 — Market-Open Inline Research
 
 ### Account (vs $10K cap)

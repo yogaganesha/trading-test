@@ -44,3 +44,7 @@ EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%)
 ---
 ## 2026-06-01 11:09 UTC
 6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
+
+---
+## 2026-06-03 11:08 UTC
+PRE-MKT 06-03: Oil +5% (WTI 2) → CVX watch-to-buy (12sh ~,700) at open if spread <3%; HON secondary. GE/NVDA stops live. ADP 8:15 ET.
