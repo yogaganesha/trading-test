@@ -66,6 +66,27 @@ week: 0 new buys (1 stop fill). Positions 2/6. No replacement opened —
 pre-market scan tomorrow should size up the cash pile and consider a new
 name to refill the sector slot. No action required AH; both stops live GTC.
 
+## 2026-06-03 — Market-Open Trade
+- **BUY HPE** 35 sh @ $54.58 avg fill = $1,910.30 (19.1% of $10K cap)
+  - Order type: market / day
+  - Catalyst: Q2 FY26 reported AMC 6/1 — record revenue, EPS $0.79 vs
+    $0.54 est (+46% beat), Networking revenue $2.7B +148.2% YoY on AI
+    demand. Post-earnings beat-and-raise; event risk removed.
+  - Stop: 10% trailing GTC @ $49.095 (hwm $54.55)
+  - Target: +15-20% toward $63-65; min 2:1 R:R
+- Skipped: AVGO (pre-earnings Thu 6/5 binary event risk, even though
+  spread was tight 0.07%); MRVL (5.6% spread); CRDO (30% spread);
+  XOM (4.4% spread).
+
+### Open positions after trade
+- GE: 6 sh @ $303.84 — trail GTC @ $293.76 (hwm $326.40)
+- NVDA: 8 sh @ $223.62 — trail GTC @ $209.052 (hwm $232.28)
+- HPE: 35 sh @ $54.58 — trail GTC @ $49.095 (hwm $54.55)
+
+### Cap utilization
+- Deployed vs $10K: ~$5,556 (55.6%) — still below 75-85% target
+- Trades this week: 1/3 | Positions: 3/6 | Daytrades: 0/3
+
 ### May 29 — EOD Snapshot (Day 6, Friday)
 **Portfolio:** $9,943.03 | **Cash:** $6,303.03 (63.4%) | **Day P&L:** +$2.28 (+0.02%) | **Phase P&L:** -$56.97 (-0.57%)
 

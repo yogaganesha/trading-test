@@ -275,6 +275,58 @@ all other candidates either no catalyst or worse spreads. Existing GTC trailing
 stops remain in force. Re-assess at midday scan when spreads typically tighten;
 weekly review at PM close.
 
+## 2026-06-03 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,130.70 (ignored — synthetic cap)
+- Deployed vs $10K: $3,645.44 (36.5%) — UNDER target 75-85%
+- Cash room within cap: $6,354.56
+- Daytrade count: 0/3
+- Trades this week: 0/3 (Mon-Tue 6/1-6/2 no new fills)
+
+### Positions
+- GE: 6 sh @ $303.84, now $314.72 (+3.58%) — trail GTC @ $293.76 (hwm $326.40)
+- NVDA: 8 sh @ $223.62, now $219.605 (-1.80%) — trail GTC @ $209.052 (hwm $232.28)
+
+### Market Context
+- S&P 500 futures: ~7,600 area, ES +0.14% — mildly positive
+- WTI: $94.84 / Brent: $95.94 — energy firm
+- VIX: not retrieved cleanly
+- Macro today: ADP employment, factory orders, ISM Services PMI, JOLTS
+- Earnings this week: AVGO + CRWD Thu 6/5 AMC; MDT, M reporting
+- HPE Q2 FY26 reported 6/1 AMC: revenue $10.7B record; networking $2.7B
+  +148.2% YoY (AI demand); EPS $0.79 vs $0.54 est (+46% beat); AH +29%
+- Sector momentum: tech / AI infrastructure / semis (MRVL + HPE leaders)
+
+### Trade Ideas (live quotes ~9:40 ET)
+1. HPE — confirmed Q2 FY26 beat-and-raise, AI networking +148% YoY.
+   Bid $55.11 / Ask $55.50 = 0.71% spread (TIGHT). 35 sh = $1,942 = 19.4%
+   of cap. Catalyst confirmed, event risk removed. **BUY.**
+2. AVGO — Bid $478.05 / Ask $478.38 = 0.07% spread (very tight). Strong
+   pre-earnings momentum candidate, BofA top pick, but Q2 FY26 earnings
+   Thu 6/5 AMC = binary event risk in 2 sessions. **SKIP** (consistent
+   with NVDA 5/21 playbook: enter post-earnings, not pre).
+3. MRVL — Bid $303 / Ask $320 = 5.6% spread. **SKIP** slippage.
+4. CRDO — Bid $184.71 / Ask $240 = 30% spread. **SKIP**.
+5. XOM — Bid $150.10 / Ask $156.67 = 4.4% spread. **SKIP** (also energy
+   sector already 1 failed trade — another loss triggers exit rule).
+
+### Risk Factors
+- HPE buying after 29% AH gap = chasing post-earnings momentum; 10% trail
+  protects but day-2 fade is possible
+- Under-deployed at 36.5% — opening HPE moves us to ~55.6%, still under
+  target but closes the gap
+- AVGO event risk Thu — re-evaluate Friday 6/6 post-print
+- NVDA trail tightening (hwm $232.28, stop $209.05 = 4.8% from price)
+- Multiple macro prints today (ADP, ISM, JOLTS) could swing intraday tape
+
+### Decision
+TRADE — Buy HPE (1 of 3 weekly slots). One clean confirmed catalyst with
+the tightest spread of the catalyst-bearing names. Skip everything else
+(spread or event-risk gates). Existing GE/NVDA GTC trailing stops remain
+in force; no adjustments (GE +3.6% — needs +15% to tighten; NVDA -1.8% —
+above -7% cut).
+
 ## 2026-06-01 — Market-Open Inline Research
 
 ### Account (vs $10K cap)
