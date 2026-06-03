@@ -84,3 +84,40 @@ underweight: 36.4% deployed vs 75-85% target. Trades this week: 0 new (1
 stop fill); 0/3 weekly slots used. Positions 2/6. No new entries today —
 sector-momentum scan needed Monday pre-open to redeploy idle cash. Both
 trail stops live GTC. Have a good weekend.
+
+## 2026-06-03 — Market-Open Trade
+- **BUY HPE** 35 sh @ $54.58 avg fill = $1,910.30 (19.1% of $10K cap)
+  - Order type: market / day (filled 13:40 UTC)
+  - Catalyst: AI server cycle / hyperscaler capex; HPE reports earnings
+    AMC tonight 6/3 — pre-earnings momentum entry.
+  - Stop: 10% trailing GTC @ $50.39 (hwm $55.99)
+
+### Open positions after trade
+- GE: 6 sh @ $303.84 — trail GTC @ $293.76 (hwm $326.40)
+- NVDA: 8 sh @ $223.62 — trail GTC @ $209.05 (hwm $232.28)
+- HPE: 35 sh @ $54.58 — trail GTC @ $50.39 (hwm $55.99)
+
+### Cap utilization
+- Deployed vs $10K: ~$5,522 (55.2%) — still below 75-85% target
+- Trades this week: 1/3 | Positions: 3/6 | Daytrades: 0/3
+
+### June 3 — EOD Snapshot (Day 9, Wednesday)
+**Portfolio:** $9,929.58 | **Cash:** $4,392.45 (44.2%) | **Day P&L:** -$115.65 (-1.16%) | **Phase P&L:** -$70.42 (-0.70%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| GE     | 6      | $303.84  | $314.64  | -0.97%  | +$64.80        | $293.76  |
+| HPE    | 35     | $54.58   | $55.15   | -1.78%  | +$19.95        | $50.39   |
+| NVDA   | 8      | $223.62  | $214.85  | -3.58%  | -$70.20        | $209.05  |
+
+**Notes:** Day 9 of phase. Entered HPE 35sh @ $54.58 at open (19.1% of
+cap) on AI-server / hyperscaler thesis; earnings AMC tonight — event
+risk live into close. HPE intraday ran to $55.99 hwm then faded to
+$55.15 (+1.04% on cost). NVDA red day -3.58% to $214.85; hwm $232.28
+was set 5/29-6/2 (post-Friday recovery), now -3.92% on cost with trail
+$209.05 (~2.7% from price — tight). GE -0.97% to $314.64, still +3.56%
+on cost, hwm $326.40, trail bumped to $293.76 (~6.6% from price). Cap
+deployment 55.2% — still under 75-85% target despite HPE addition.
+Phase -$70.42 (-0.70%) vs $10K basis. Trades this week 1/3. All stops
+live GTC. Watch HPE AMC print and NVDA's tight trail into Thursday
+(AVGO/CRWD AMC 6/5).

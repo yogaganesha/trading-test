@@ -44,3 +44,7 @@ EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%)
 ---
 ## 2026-06-01 11:09 UTC
 6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
+
+---
+## 2026-06-03 20:07 UTC
+EOD 6/3 (Day 9, Wed) — Port $9,929.58 | Day -$115.65 (-1.16%) | Phase -$70.42 (-0.70%) vs $10K cap. Trades today: BUY HPE 35 @ $54.58 (19.1% cap, AI-server thesis, earnings AMC tonight). Positions 3/6: GE +$64.80 (stop $293.76), HPE +$19.95 (stop $50.39), NVDA -$70.20 (stop $209.05 — tight, ~2.7% from price). Cash 44.2% — deployment 55.2%, still under 75-85% target. Trades this wk: 1/3. All stops live GTC. Watch HPE AMC print.
