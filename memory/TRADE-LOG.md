@@ -84,3 +84,37 @@ underweight: 36.4% deployed vs 75-85% target. Trades this week: 0 new (1
 stop fill); 0/3 weekly slots used. Positions 2/6. No new entries today —
 sector-momentum scan needed Monday pre-open to redeploy idle cash. Both
 trail stops live GTC. Have a good weekend.
+
+## 2026-06-03 — HPE Buy
+- **BUY HPE** 35 sh @ $54.58 = $1,910.30 (19.1% of $10K cap)
+  - Order type: market / day
+  - Stop: 10% trailing GTC
+
+## 2026-06-04 — AVGO Buy
+- **BUY AVGO** 4 sh @ $406.86 = $1,627.44 (16.3% of $10K cap)
+  - Order type: market / day
+  - Stop: 10% trailing GTC
+
+### June 4 — EOD Snapshot (Day 10, Thursday)
+**Portfolio:** $10,029.84 | **Cash:** $2,765.29 (27.6%) | **Day P&L:** +$101.02 (+1.02%) | **Phase P&L:** +$29.84 (+0.30%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| AVGO   | 4      | $406.86  | $418.31  | +2.81%  | +$45.80        | $383.83  |
+| GE     | 6      | $303.84  | $327.55  | +4.10%  | +$142.26       | $296.51  |
+| HPE    | 35     | $54.58   | $53.67   | -2.68%  | -$31.85        | $50.39   |
+| NVDA   | 8      | $223.62  | $218.45  | +1.72%  | -$41.40        | $209.05  |
+
+**Notes:** Day 10, Thursday — phase flips green for the first time
+(+$29.84 / +0.30% vs $10K basis) after best single-day P&L of phase
+(+$101.02 / +1.02%). Cap utilization stepped up materially: HPE added 6/3
+(19.1% cap) and AVGO added today (16.3% cap), bringing deployed to ~71.5%
+of $10K — closer to the 75-85% target but still 3.5pp short. Positions
+4/6, cash 27.6%. Trades this week: 2/3 (HPE Wed, AVGO Thu) — one slot
+left. GE leads (+7.8% on cost, hwm $329.46, trail $296.51 ~9.5% below
+price); AVGO opens green +2.8% intraday from entry (hwm $426.48, trail
+$383.83); NVDA bounced +1.7% (hwm $232.28, trail $209.05 ~4.3% from price
+— still tight); HPE Day-2 red -1.7% on cost (hwm $55.99, trail $50.39
+~6.1% below). No tightening triggered anywhere (all hwms <+15% on cost).
+All four trail stops live GTC. Semis exposure now doubled (NVDA + AVGO) —
+watch for sector correlation drawdown.
