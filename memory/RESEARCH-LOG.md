@@ -320,3 +320,79 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-04 — Pre-Market Research
+
+### Account Snapshot (vs $10K cap)
+- Alpaca equity: $99,998.64 (paper surplus — ignore)
+- Deployed vs $10K: $5,423.69 (54.2%) — BELOW 75-85% target
+- Cash within cap: ~$4,576
+- Positions: 3/6 | Trades this week: 0/3 | Daytrades: 0/3
+
+| Ticker | Shares | Entry   | Current  | Unr P&L  | Stop GTC  | HWM      | vs Cost | Gap to Stop |
+|--------|--------|---------|----------|----------|-----------|----------|---------|-------------|
+| GE     | 6      | $303.84 | $315.50  | +$69.98  | $293.76   | $326.40  | +3.8%   | 6.9%        |
+| HPE    | 35     | $54.58  | $52.33   | -$78.75  | $50.391   | $55.99   | -4.1%   | 3.7%        |
+| NVDA   | 8      | $223.62 | $212.39  | -$89.84  | $209.052  | $232.28  | -5.0%   | **1.6% ⚠**  |
+
+**Stop health:**
+- GE: 6.9% cushion — comfortable
+- HPE: 3.7% cushion — tightening; manual cut at $50.76 (-7%); stop ($50.391) triggers first
+- NVDA: **CRITICAL — 1.6% from stop.** Hwm $232.28, trail 10% → stop $209.052. Current $212.39. One down day stops this out.
+
+### Market Context
+- **S&P 500 futures:** 7,545.25, **-0.35%** — soft open; mild risk-off
+- **WTI:** ~$95.25/bbl | **Brent:** ~$97.12/bbl (-0.81% today) — oil elevated but pulling back
+- **VIX:** ~17.85 (Jun futures); May avg 16.29 — moderate; not alarming
+- **Sector momentum YTD (through ~March 2026):** Energy +26% (leading), Consumer Staples +10.7%, Industrials +9.6%, Materials strong. Tech/Comms/Consumer Disc in Lagging quadrant.
+- **AI theme:** AI capex supercycle remains anchor; momentum factor ETF up >20% YTD vs S&P +8%.
+- **NVDA CFO** speaking at BofA Global Technology Conference today — watch for guidance commentary.
+
+**Earnings before open today (6/4):**
+- BF.B est $0.32, CAL est $0.34, **CIEN est $1.46** (AI networking — notable), CMCO est $0.46, TTC est $1.51
+
+**Economic calendar:**
+- **Today 8:30 AM:** BLS Productivity & Costs Q1 2026 (revised) — minor mover
+- **Tomorrow 8:30 AM: NFP / Employment Situation May 2026** — MAJOR event risk
+- 6/10: CPI May | 6/11: PPI May | 6/16-17: FOMC
+
+**Held ticker news:**
+- **GE:** No new adverse news. Q1 2026 beat: EPS +16%, orders +87% YoY to $23B. Guidance unchanged (full-year $7.10-7.40 adj EPS). Defense/aerospace thesis intact. Analyst avg target $348 vs current $315.
+- **HPE:** Q2 2026 strong beat — EPS $0.79 vs $0.54 est, Revenue $10.68B vs $9.89B est. Argus raised PT to $70 from $30. Juniper Networks integration on track. Stock -4.1% from our entry despite earnings beat — market digesting post-earnings move. Thesis intact; stop handles downside.
+- **NVDA:** CFO at BofA Tech Conference today. Morningstar FV $280 (vs $212 current — 32% upside). RTX Spark AI laptop chips announced. IREN partnership for up to 5GW AI infrastructure. Analyst commentary very bullish. BUT: technically fragile — stock fell from hwm $232.28 to $212.39 (-8.6% off highs), trail stop nearly triggered.
+
+### Trade Ideas
+
+**1. CIEN (Ciena) — Earnings catalyst today BMO**
+- Catalyst: Q2 FY26 results out today BMO, est $1.46/share; AI networking infrastructure (optical routing); same HPE/Juniper-style AI-buildout thesis; less semis overlap with existing NVDA
+- Entry: market open if spread <2%; size $2,000 (20% cap)
+- Stop: 10% trailing GTC immediately after fill
+- Target: +15% toward prior highs; R:R ~1.5:1 minimum
+- Risk: opening spread likely wide (recurring open-spread problem); would add AI-infra concentration alongside HPE
+
+**2. Energy re-entry (CVX or COP)**
+- Catalyst: Brent $97/bbl; Energy sector leading YTD +26%; no current energy exposure after XOM stopped out in May
+- Entry: market open if spread <1% and intraday price holds; size $2,000 (20% cap)
+- Stop: 10% trailing GTC
+- Target: +12-15%; R:R ~1.5:1
+- Risk: NFP tomorrow creates macro volatility; energy already has 1 failed trade (XOM) — one more consecutive failure = sector exit rule triggered
+
+**3. NVDA position management (not a new trade)**
+- No action — never move stop down; trail at $209.052 must stand
+- If stopped: frees $1,699; realized loss ~-$89.84; can redeploy into energy or networking post-NFP
+
+### Risk Factors
+- **NVDA stop imminent:** 1.6% cushion with futures -0.35% — high probability of fill at open
+- **NFP tomorrow (June 5):** Major macro event; adding new positions today = holding through jobs print
+- **Oil pulling back (-0.81%):** Reduces energy re-entry urgency for today; better to wait for trend confirmation
+- **Opening-spread pattern:** Every prior session saw 5-36% spreads at open on catalyst names; CIEN likely no exception
+- **Tech sector lagging YTD:** Despite AI narrative, sector-momentum score is in Lagging quadrant
+- **3 positions at 54% deployed:** Underpowered, but NFP risk argues against forcing deployment today
+
+### Decision
+**HOLD** — Do NOT add new positions today ahead of NFP tomorrow (June 5, 8:30 AM).
+- NVDA likely stops out at open (1.6% gap, futures down); **let trail run — do not interfere**
+- GE: HOLD, stop 6.9% away, thesis intact
+- HPE: HOLD, strong Q2 beat, Argus PT $70; stop handles downside (-4.1%, above -7% cut)
+- If NVDA stops: assess CIEN spread and energy (CVX/COP) for next week's entries AFTER NFP print
+- Sector priority for next new position: **Energy** (leading sector, no current exposure) then **Networking/AI-infra** (CIEN if spread tightens)
