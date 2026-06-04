@@ -320,3 +320,46 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-04 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $100,083.32 (ignored — synthetic cap)
+- Deployed vs $10K: $5,507.07 (55.1%) — UNDER target 75-85%
+- Cash room within cap: $4,492.93
+- Daytrade count: 0/3
+- Trades this week: 1 (HPE entry 6/3); 2/3 slots open
+
+### Positions (live ~9:40 ET)
+- GE: 6 sh @ $303.84, now $318.39 (+4.79%) — trail GTC @ $293.76 (hwm $326.40)
+- HPE: 35 sh @ $54.58, now $53.48 (-2.02%) — trail GTC @ $50.39 (hwm $55.99)
+- NVDA: 8 sh @ $223.62, now $215.62 (-3.58%) — trail GTC @ $209.05 (hwm $232.28)
+
+### Market Context
+- AVGO reported Q2 FY26 AMC 6/3 — event risk REMOVED for today's session
+- Sector momentum: AI/semis, custom ASIC, AI networking
+- Other Wed 6/3 AMC reports per source: PANW, AVGO
+
+### Trade Ideas (live quote ~9:40 ET)
+1. **AVGO** — Q2 FY26 beat-and-raise reported AMC 6/3.
+   - Revenue $22.2B (+48% YoY) — beat
+   - Non-GAAP EPS $2.44 vs $2.40 consensus — beat
+   - AI semiconductor rev $10.8B (+143% YoY)
+   - **Q3 guide: $29.4B total, AI semis $16.0B (+200% YoY)** — major raise
+   - Quote: bid $406 / ask $408.44 = 0.60% spread — TIGHT
+   - 4 sh @ $408.44 = $1,633.76 = 16.3% of $10K cap (within 20%)
+   - Stop: 10% trail GTC immediately after fill (~$367.60)
+2. NVDA add — declined (already in book, concentration in AI/semis)
+3. Other earnings names (PANW etc.) — not researched; AVGO catalyst is cleanest
+
+### Risk Factors
+- Sector concentration: AI/semis = NVDA + HPE + AVGO post-trade (3 of 4 names)
+- AVGO already had after-hours move on print; entry chases the reaction
+- NVDA still -3.58% with trail 3.0% above stop — watch for breach
+- Market context not fully reviewed (VIX/oil/S&P futures not retrieved)
+
+### Decision
+TRADE — Buy AVGO 4 sh @ market (day TIF). One clean post-earnings catalyst
+with beat-and-raise on AI guide, tight 0.6% spread, position size 16.3% of
+$10K cap. Closes deployment gap from 55% → ~71%. 10% trailing stop GTC
+immediately. Existing GE/HPE/NVDA stops remain in force unchanged.

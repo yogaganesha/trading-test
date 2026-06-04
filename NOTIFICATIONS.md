@@ -44,3 +44,7 @@ EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%)
 ---
 ## 2026-06-01 11:09 UTC
 6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
+
+---
+## 2026-06-04 13:41 UTC
+6/4 market-open: BUY AVGO 4 sh @ $406.86 = $1,627 (16.3% cap). Catalyst: Q2 FY26 beat-and-raise AMC 6/3, AI semis Q3 guide +200% YoY. 10% trail GTC @ $365.67. Deployment 55% -> 71%. Positions 4/6, trades 2/3.

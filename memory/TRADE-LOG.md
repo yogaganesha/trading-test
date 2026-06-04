@@ -84,3 +84,23 @@ underweight: 36.4% deployed vs 75-85% target. Trades this week: 0 new (1
 stop fill); 0/3 weekly slots used. Positions 2/6. No new entries today —
 sector-momentum scan needed Monday pre-open to redeploy idle cash. Both
 trail stops live GTC. Have a good weekend.
+
+## 2026-06-04 — Market-Open Trade
+- **BUY AVGO** 4 sh @ $406.86 avg fill = $1,627.44 (16.3% of $10K cap)
+  - Order type: market / day
+  - Catalyst: Q2 FY26 beat-and-raise reported AMC 6/3. Rev $22.2B (+48% YoY),
+    EPS $2.44 vs $2.40, AI semis $10.8B (+143% YoY). Q3 guide $29.4B with AI
+    semis $16.0B (+200% YoY) — major raise; event risk removed.
+  - Spread at entry: 0.60% (bid $406 / ask $408.44)
+  - Stop: 10% trailing GTC @ $365.67 (hwm $406.305)
+- Skipped: NVDA add (already in book + concentration), PANW (not researched).
+
+### Open positions after trade
+- GE: 6 sh @ $303.84 — trail GTC @ $293.76 (hwm $326.40)
+- HPE: 35 sh @ $54.58 — trail GTC @ $50.39 (hwm $55.99)
+- NVDA: 8 sh @ $223.62 — trail GTC @ $209.05 (hwm $232.28)
+- AVGO: 4 sh @ $406.86 — trail GTC @ $365.67 (hwm $406.31)
+
+### Cap utilization
+- Deployed vs $10K: ~$7,134 (71.3%) — closing gap toward 75-85% target
+- Trades this week: 2/3 | Positions: 4/6 | Daytrades: 0/3
