@@ -320,3 +320,58 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+---
+
+## 2026-06-05 — Pre-Market Research
+
+### Account Snapshot (vs $10K cap)
+- Alpaca equity: $100,140.06 (ignore surplus)
+- Long market value: $7,192.56 (**71.9% deployed** — just under 75% floor)
+- Cash available within cap: ~$2,808
+- Positions: 4/6 | Trades this week: 0/3 | Daytrades: 0/3
+
+| Ticker | Shares | Entry    | Current  | Unreal P&L | % Cost | Trail GTC | HWM      | Gap to Stop |
+|--------|--------|----------|----------|------------|--------|-----------|----------|-------------|
+| AVGO   | 4      | $406.86  | $413.20  | +$25.36    | +1.56% | $383.83   | $426.48  | 7.1%        |
+| GE     | 6      | $303.84  | $326.91  | +$138.42   | +7.59% | $296.51   | $329.46  | 9.3%        |
+| HPE    | 35     | $54.58   | $52.90   | -$58.80    | -3.08% | $50.39    | $55.99   | 4.7%        |
+| NVDA   | 8      | $223.62  | $215.86  | -$62.08    | -3.47% | $209.05   | $232.28  | **3.2%** ⚠️ |
+
+Net unrealized: +$42.90 | Phase cumulative: ~-$14 vs $10K
+
+### Market Context
+- **S&P 500 futures**: ~7,545–7,557, down ~0.35% premarket — mild risk-off
+- **VIX**: ~15.4 (from 16.1 prior day) — low, no fear
+- **WTI**: ~$93.0/bbl | **Brent**: ~$95.3/bbl — elevated, Energy sector momentum confirmed
+- **Sector leaders YTD**: Energy (+22%), Consumer Staples (+10.7%), Industrials (+9.6%)
+- **Sector laggards**: Tech (XLK), Comm Services, Consumer Disc, Financials — all "Lagging"
+- **Key macro today**: 🔴 **May NFP Jobs Report 8:30 AM ET** — consensus +85K (slowdown vs 100K+ prior)
+- **CPI**: June 10 | **PPI**: June 11 | **FOMC**: no meeting today
+- **Earnings BMO today**: Medtronic (MDT) only — light calendar
+- **Earnings AMC tonight**: None confirmed for our holdings (AVGO reported June 3, HPE reported June 1)
+
+### Held-Ticker News
+- **AVGO**: Q2 FY26 reported June 3 — EPS $2.44 vs $2.32 est (+5% beat); AI rev +140% YoY, backlog strong. Post-earnings entry (June 4) — event risk cleared.
+- **HPE**: Q2 FY26 reported June 1 — EPS $0.79 vs $0.54 (+46% beat); rev $10.68B vs $9.89B est; AI orders $1.8B record. Post-earnings pop faded, now -3.1% on cost.
+- **GE**: Q1 FY26 (April) — orders +87%, rev +29%, raised guidance. Analyst target ~$375. GE in the Leading Industrials sector. Green +7.6%.
+- **NVDA**: Computex keynote bullish — Vera Rubin in full production, entering PC market, Blackwell Ultra ramping. Stock sagging despite positive news; trail stop only 3.2% from price.
+
+### ⚠️ Stop Proximity Alert
+- **NVDA $209.05** — 3.2% from current $215.86. A weak jobs print + tech risk-off could trigger.
+- **HPE $50.39** — 4.7% from current $52.90. Holding above but thin cushion.
+- Both stops are correct GTC orders; no manual intervention needed — let system work.
+
+### Trade Ideas
+1. **Energy add (XOM or CVX)** — Sector #1 YTD (+22%), WTI elevated at $93, we have cap room (~$1,000–1,300 for 1 position). XOM was prior holding (stopped out at -5.6%). Catalyst: OPEC+ discipline + elevated oil macro. Entry/stop/target: XOM ~$120 → stop 10% trail → target ~$145+ (2:1 R:R). Spread check needed at open. **Contingent on strong jobs print.**
+2. **PANW (Palo Alto Networks)** — AI-driven cybersecurity momentum; beat-and-raise quarter imminent (reports June 5 AMC). Spread likely wide at open; revisit at midday. Skip BMO.
+3. **Hold all 4 positions** — Earnings risk cleared on AVGO/HPE; GE running well; NVDA near stop but Computex tailwind is real. Default to patience.
+
+### Risk Factors
+- Jobs report (+85K consensus) is a binary event: weak print hits growth/tech hard and NVDA stop could trigger
+- Tech sector officially "Lagging" — NVDA and AVGO operating against momentum headwind
+- 71.9% deployed (below 75% floor) — minor cash drag, but don't force an entry into binary macro event
+- NVDA trail at 3.2% gap is uncomfortably tight; one bad session ends it
+
+### Decision
+**HOLD into 8:30 ET jobs print.** No new entries before NFP. If NFP ≥ +100K (strong), evaluate Energy add (XOM/CVX) at open once spreads tighten. If NFP ≤ +75K (weak), hold cash and protect — NVDA stop will handle itself via GTC. All existing GTC trailing stops live and correct; no adjustments needed (GE +7.6% — needs +15% to tighten trail; NVDA/HPE below tighten threshold).
