@@ -320,3 +320,50 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-05 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $99,991.59 (ignored — synthetic cap)
+- Deployed vs $10K: $7,044.09 (70.4%) — bottom of 75-85% target zone
+- Cash room within cap: $2,955.91
+- Daytrade count: 0/3
+- Trades this week: 2/3 (HPE 6/3, AVGO 6/4) — 1 slot left
+
+### Positions (mid prices ~9:39 ET)
+- AVGO: 4 sh @ $406.86, mid $403.12 (-0.94%) — trail GTC @ $383.83 (hwm $426.48)
+- GE: 6 sh @ $303.84, mid $316.53 (+4.18%) — trail GTC @ $296.51 (hwm $329.46)
+- HPE: 35 sh @ $54.58, mid $51.14 (-6.30%) — trail GTC @ $50.39 (hwm $55.99)
+- NVDA: 8 sh @ $223.62, mid $213.78 (-4.40%) — trail GTC @ $209.05 (hwm $232.28)
+
+### Market Context
+- Today = Friday 6/5: May NFP print pre-open (Barclays est +75K — dovish if soft)
+- AVGO earnings AMC tonight — event risk on existing 20% position
+- CRWD earnings AMC tonight (CrowdStrike)
+- Friday also = weekly-review day (handled separately by /weekly-review)
+- Sector momentum (per recent logs): AI infra/semis, energy, industrials
+
+### Trade Ideas (live quotes ~9:39 ET)
+1. GE spread 4.7% (bid 309.22 / ask 323.85) — wide opening, no add anyway
+2. HPE — already in book, near -7% cut; no add
+3. AVGO — already in book, earnings tonight = event risk; no add
+4. NVDA — already in book at -4.4%; no add
+5. No fresh ticker with a verified, dated 6/5 catalyst (other than NFP macro)
+   that beats the patience gate given event risk in book
+
+### Risk Factors
+- AVGO earnings tonight = gap risk on an in-book 20% position
+- HPE at -6.30% from cost, hwm already $55.99 → broken; within ~0.6% of
+  manual cut at $50.76 (-7%). Watch closely; if it touches $50.76 intraday,
+  manual cut per rule
+- Only 1 weekly trade slot left; Friday + event risk argues conserve it
+- GE opening spread 4.7% — typical opening slippage pattern
+- NFP miss could whipsaw market either direction
+
+### Decision
+HOLD — No fresh tradeable catalyst that justifies burning the last weekly
+trade slot ahead of AVGO/CRWD earnings tonight and NFP-driven afternoon
+volatility. Existing GTC trails remain live on all 4 positions. Watch HPE
+intraday — if it ticks below $50.76, execute manual cut per rule 5. Stop
+adjustments: none today (GE +4.18% — needs +15% to tighten; NVDA/AVGO/HPE
+all red — no tighten). Re-assess at midday scan; weekly review at PM close.
