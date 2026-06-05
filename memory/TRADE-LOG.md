@@ -84,3 +84,40 @@ underweight: 36.4% deployed vs 75-85% target. Trades this week: 0 new (1
 stop fill); 0/3 weekly slots used. Positions 2/6. No new entries today —
 sector-momentum scan needed Monday pre-open to redeploy idle cash. Both
 trail stops live GTC. Have a good weekend.
+
+## 2026-06-03 — Mid-Week Trade
+- **BUY HPE** 35 sh @ $54.58 = $1,910.30 (19.1% of $10K cap)
+  - Tech/IT hardware add.
+
+## 2026-06-04 — Mid-Week Trade
+- **BUY AVGO** 4 sh @ $406.86 = $1,627.44 (16.3% of $10K cap)
+  - Semis exposure beyond NVDA.
+
+## 2026-06-05 — Two Stops Triggered
+- **HPE trailing stop hit** 35 sh sold @ $50.36 (entry $54.58) = -$147.76
+  - Held 2 sessions; gap-down through trail.
+- **NVDA trailing stop hit** 8 sh sold @ $209.04 (entry $223.62) = -$116.64
+  - hwm $224.75, stop $202.28 ladder breached intraday.
+
+### June 5 — EOD Snapshot (Day 11, Friday)
+**Portfolio:** $9,708.72 | **Cash:** $6,200.15 (63.9%) | **Day P&L:** -$326.54 (-3.25%) | **Phase P&L:** -$291.28 (-2.91%)
+
+| Ticker | Shares | Entry    | Close    | Day Chg | Unrealized P&L | Stop     |
+|--------|--------|----------|----------|---------|----------------|----------|
+| GE     | 6      | $303.84  | $328.00  | +0.11%  | +$144.96       | $299.24  |
+| AVGO   | 4      | $406.86  | $385.14  | -8.06%  | -$86.87        | $383.83  |
+
+**Notes:** Day 11, Friday — ugly close to week 2. Two stop fills today:
+HPE 35sh @ $50.36 for -$147.76 (held just 2 sessions; bought 6/03 @ $54.58),
+NVDA 8sh @ $209.04 for -$116.64 (entry 5/21 @ $223.62, trail breached after
+hwm $224.75). AVGO bought 6/04 @ $406.86 already deep red — gapped -8.06%
+today; trail $383.83 sits ~0.34% from price = stop-out risk Monday open. GE
+lone winner: +7.95% on cost, hwm $332.49, trail $299.24 (8.8% below price,
+untightened — needs +15% for 7% trail). Cap utilization 35.1% ($3,508.57 /
+$10K) — well below 75-85% target after today's two exits. Trades this week:
+2/3 new buys (HPE, AVGO), 2 stop fills. Positions 2/6. Phase P&L -$291.28
+(-2.91%) vs $10K, worst session of phase. Sector watch: semis now NVDA -$117
++ AVGO bleeding — if AVGO stops, that's 2 failed semi trades and the rule
+triggers a semi sector exit. Both remaining stops live GTC. Weekly review
+template due (Friday); pre-market scan Monday should reassess AVGO position
+and rotate idle cash if semi-exit triggers.

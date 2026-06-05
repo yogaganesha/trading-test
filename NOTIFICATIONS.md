@@ -44,3 +44,7 @@ EOD 5/29 (Fri) — Port $9,943.03 | Day +$2.28 (+0.02%) | Phase -$56.97 (-0.57%)
 ---
 ## 2026-06-01 11:09 UTC
 6/1 Pre-market: CONDITIONAL TRADE — AVGO (spread <1.5%) + XOM re-entry (spread <1%) at open to close 36%→75% deploy gap; GE/NVDA HOLD, all stops live
+
+---
+## 2026-06-05 20:06 UTC
+EOD 6/05 (Fri, Day 11): Portfolio $9,708.72 | Cash 63.9% | Day P&L -$326.54 (-3.25%) | Phase -$291.28 (-2.91%). Two stop fills today — HPE -$147.76, NVDA -$116.64. AVGO -8.06% intraday, trail $383.83 sits 0.34% from price (Monday stop-out risk). GE +7.95% on cost, only green. Positions 2/6, 35% deployed. Trades this week 2/3.
