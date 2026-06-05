@@ -320,3 +320,37 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-05 — Midday Scan
+
+### Account (vs $10K cap)
+- Alpaca equity: $99,935.17 (ignored — synthetic cap)
+- Deployed vs $10K: $3,552.81 (35.5%) — UNDER 75-85% target
+- Cash room within cap: $6,447.19
+- Daytrade count: 0/3
+
+### Positions (live ~13:05 ET)
+- AVGO: 4 sh @ $406.86, now $394.36 ask (-3.10% cost, **-5.89% intraday**)
+  - Trail GTC @ $383.83 (10%, hwm $426.48) — only ~2.6% below price
+- GE: 6 sh @ $303.84, now ~$328.75 mid (+8.45% cost, +0.57% intraday)
+  - Trail GTC @ $299.24 (10%, hwm $332.49) — ~9% below price
+
+### Intraday Research — AVGO Sharp Drop
+- Perplexity: NO company-specific catalyst found (no downgrade, no headline)
+- Likely sector/AI sentiment move; AVGO carries customer concentration risk
+- Thesis not broken by news; price action alone doesn't trigger manual cut
+
+### Actions Taken
+- NONE. No position at -7% cost (no cut). No position at +15%/+20%
+  (no tightening). No thesis break documented. AVGO trail at $383.83 will
+  do its job if selling continues.
+
+### Risk Notes
+- AVGO trail tight (2.6% from price) — natural 10% trail, not a tighten
+  action; risk of stop-out today if intraday weakness extends
+- Cap utilization still 35.5% — chronic under-deployment vs 75-85% target
+- TRADE-LOG missing entries since 5/29 (AVGO entry + NVDA exit not logged);
+  flagged for end-of-day reconciliation
+
+### Decision
+HOLD both. Let trailing stops work. Re-assess at EOD.
