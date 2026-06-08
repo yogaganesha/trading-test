@@ -320,3 +320,45 @@ HOLD — All earnings names blocked by opening spreads; only tight-spread name
 (MU) fails the catalyst gate. Existing GE/NVDA GTC trailing stops remain in
 force. No stop adjustments needed (GE +4.9% — needs +15% to tighten; NVDA
 -1.6% — above -7% cut). Re-assess at midday scan when spreads narrow.
+
+## 2026-06-08 — Market-Open Inline Research
+
+### Account (vs $10K cap)
+- Alpaca equity: $99,956.02 (ignored — synthetic cap)
+- Deployed vs $10K: $3,450.48 cost basis (34.5%) — UNDER target 75-85%
+- Cash room within cap: $6,549.52
+- Daytrade count: 0/3
+- Trades this week: 0/3 (fresh week, Monday)
+
+### Positions
+- GE: 6 sh @ $303.84, now $331.11 (+8.97%) — trail GTC @ $299.24 (hwm $332.485)
+- AVGO: 4 sh @ $406.86, now $396.68 (-2.50%) — trail GTC @ $383.83 (hwm $426.48)
+
+### Market Context
+- S&P 500 May +5.15%, 11 new ATHs; Goldman raised YE 2026 target to 8000
+- Last week (ending 6/5): Info Tech still leading; Industrials/Energy positive
+- Macro: stronger-than-expected NFP last Fri reinforced rate-cut delay narrative
+- Key dates this week: CPI Wed 6/10, ADBE/LEN Thu 6/11, AVGO Q2 FY26 likely
+  AMC later this week (Thu most likely — not confirmed for today)
+
+### Trade Ideas (live quotes ~9:34 ET)
+1. CPB (Campbell's) — earnings AMC tonight. Bid $21.34 / Ask $21.43 = 0.42%
+   spread (tight). BUT catalyst is PRE-earnings = event risk NOT removed.
+   Strategy pattern (NVDA 5/21) requires post-beat entry. SKIP — gambling
+   on the print breaks the playbook.
+2. AVGO — Q2 FY26 due AMC this week (not today). Already owned 4sh. Won't
+   add into earnings event risk; current trail will manage either outcome.
+
+### Risk Factors
+- Under-deployed at 34.5% vs 75-85% target — recurring cash drag, but no
+  catalyst this AM clears the gate
+- AVGO carries earnings event risk later this week (already on the books;
+  trail GTC handles downside)
+- CPI Wednesday is the macro pivot — broad-market vol risk midweek
+
+### Decision
+HOLD — Only S&P 500 name with today catalyst (CPB) is pre-earnings;
+post-beat entry is the playbook. AVGO/GE both within rule bounds — no stop
+adjustments (GE +8.97%, needs +15% for 7% trail; AVGO -2.5%, above -7%).
+Existing GTC trailing stops remain in force. Re-assess at midday scan;
+watch CPB AMC print as a possible Tue/Wed entry if it beats-and-raises.
